@@ -5,27 +5,29 @@ GitBook of frontend-survival
 ## 1주차
 
 1. 개발 환경 세팅
-   *   .gitignore 파일 꼭 셋팅해주기
 
-       .eslintignore파일도 셋팅
+*   .gitignore 파일 꼭 셋팅해주기
 
-       &#x20;
+    .eslintignore파일도 셋팅&#x20;
 
-       /node\_modules/
+```
+/node_modules/
+/dist/
+/.parcel-cache/
+```
 
-       /dist/
+* 터미널에서 typescript 빠르게 쓰기
 
-       /.parcel-cache/
+```
+npx ts-node
+```
 
-       * Node.js
-       * NPM(Node Package Manager)
-       * ES Modules vs CommonJS
-       * npx ts-node : 터미널에서 typescript 빠르게 쓰기
-         *
-
-
+* ES Modules vs CommonJS
+* NPM(Node Package Manager)
 
 2. Typescript
+
+* Node.js
 
 ReactNode 처럼 레거시 코드도 있기 때문에 타입을 적용해줘야 한다.
 
@@ -37,7 +39,7 @@ Type이 더 오래된 개념이다.
 
 * 타입 추론
 
-모든 것을 작성하지 않아도 어느정도 검사해 준다.
+모든 것을 작성하지 않아도 어느 정도 검사해 준다.
 
 * Union Type
 
@@ -57,7 +59,7 @@ function add(x:number, y?:number)&#x20;
 
 * Intersection Type
 
-확장한 것과 비슷한 개념
+type을확장한 것과 비슷한 개념
 
 &#x20;type  Person = Human & Creature;
 
