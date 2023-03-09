@@ -20,8 +20,6 @@ Test('숫자 더하기', () => {
 Screen.getByText(\Hi\); -> 정규표현식도 가능
 ```
 
-``
-
 
 
 **React Testing Library**
