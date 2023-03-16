@@ -1,6 +1,6 @@
 # JSX
 
-ECMAScript
+**ECMAScript**
 
 JSX는 React의 부산물이지만 꼭 React에서 사용되는건 아니다.
 
@@ -8,13 +8,15 @@ JSX는 React의 부산물이지만 꼭 React에서 사용되는건 아니다.
 
 \<name>홍길동\</name>
 
+
+
 JSX는 XML을 React.createElement 를 쓰는 Javascript 코드로 변환해준다.
 
 Babel.js.io 에서 React를 JSX로 변환하는 내용을 실험할 수 있다.
 
 &#x20;
 
-JSX코드
+**JSX코드**
 
 \<p>Hello, world!\</p>
 
@@ -42,13 +44,13 @@ React Developer Tools
 
 &#x20;
 
-React Developer Tools
+**React Developer Tools**
 
 Strict Mode를 쓰지 않으면 경고한다.
 
 &#x20;
 
-VDOM
+**VDOM**
 
 트리 = 한방향 구조로 무조건 간다.
 
