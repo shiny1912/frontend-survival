@@ -1,8 +1,15 @@
 # Table of contents
 
-* [frontend-survival](README.md)
-* [개발환경 셋팅](undefined.md)
-* [Typescript](typescript.md)
-* [React](react.md)
-* [Jest](jest.md)
-* [Parcel & ESLint](parcel-and-eslint.md)
+## Group 1
+
+* [Week 1](README.md)
+  * [개발환경 셋팅](group-1/week-1/undefined.md)
+  * [Typescript](group-1/week-1/typescript.md)
+  * [React](group-1/week-1/react.md)
+  * [Jest](group-1/week-1/jest.md)
+  * [Parcel & ESLint](group-1/week-1/parcel-and-eslint.md)
+
+## Group 2
+
+* [Week 2](group-2/week-2.md)
+* [JSX](group-2/jsx.md)

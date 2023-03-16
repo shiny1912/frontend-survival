@@ -1,3 +1,6 @@
-# frontend-survival
+---
+description: Front-End Survival Week 1
+---
 
-GitBook of frontend-survival
+# Week 1
+
