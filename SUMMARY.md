@@ -13,3 +13,11 @@
 
 * [Week 2](group-2/week-2.md)
 * [JSX](group-2/jsx.md)
+
+## Group 3
+
+* [Week 4](group-3/week-4.md)
+
+***
+
+* [React Hooks](react-hooks.md)
