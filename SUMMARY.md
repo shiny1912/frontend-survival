@@ -21,3 +21,7 @@
 ***
 
 * [React Hooks](react-hooks.md)
+
+## Group 4
+
+* [Week 6](group-4/week-6.md)
